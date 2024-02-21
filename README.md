@@ -1,4 +1,4 @@
-
+IoT-based Trash Management system aimed at optimizing waste collection, disposal processes amd Integration of IoT devices, sensors, and cloud computing to create an efficient waste management solution.
 
 
 
