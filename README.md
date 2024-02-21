@@ -1,6 +1,3 @@
-IoT-based Trash Management system aimed at optimizing waste collection, disposal processes amd Integration of IoT devices, sensors, and cloud computing to create an efficient waste management solution.
-
-
 
 1.Install the arduino IDE in your system.
 2. Install the required libraries of the project.
